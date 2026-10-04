@@ -1,22 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=150&section=header&text=Cipriano%20Salvatore&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8957e5&center=true&vCenter=true&width=600&lines=Software+Developer;C%23+%26+.NET+Developer;Python+Developer;Data+Engineer;Backend+Developer;Linux+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8957e5&center=true&vCenter=true&width=600&lines=Software+Developer;C%23+%26+.NET+Developer;Python+Developer;Data+Engineer" alt="Typing Animation" />
 </p>
 
 <p align="center">
   I am a student and software developer passionate about software architecture, backend development, and advanced database management.<br>
-  I focus on the C language family (C, C++, C#), Python, and Java with the goal of building solid, well-structured, and maintainable desktop and server applications, developing in a Linux environment and writing efficient, scalable solutions.
+  I focus on the C language family (C, C++, C#), Python, and Java with the goal of building solid, well-structured, and maintainable desktop and server applications, developing in a Linux environment.
 </p>
 
 <p align="center">
-  <a href="mailto:cipriano.salvatore@outlook.com"><img src="https://img.shields.io/badge/✉️_Email-Contact-Me-D14836?style=flat-square" alt="Email" /></a>
-  <a href="https://www.instagram.com/salvo_codes"><img src="https://img.shields.io/badge/📸_Instagram-salvo__codes-E4405F?style=flat-square" alt="Instagram" /></a>
+  <a href="mailto:cipriano.salvatore@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square" alt="Email" /></a>
+  <a href="https://www.instagram.com/salvo_codes"><img src="https://img.shields.io/badge/Instagram-salvo__codes-E4405F?style=flat-square" alt="Instagram" /></a>
 </p>
 
 ## 👨‍💻 About Me
 
-I am **Cipriano Salvatore**, a student and software developer with a quality-focused approach to code and system architecture. I design and build applications with attention to maintainability, clarity, and robustness.
+I am **Cipriano Salvatore**, a student and software developer with a quality-focused approach to code and system architecture. I design and build applications with attention to maintainability, clarity, and performance.
 
 I work daily in a **Linux (Fedora)** environment, which has trained me to work from the command line, manage dependencies, and think about software in terms of portability and maintainability.
 
